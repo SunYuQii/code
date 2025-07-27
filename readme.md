@@ -1,6 +1,6 @@
-# Large Language Models Empowered Data Augmentation for Sequential Recommendation
+# Code
 
-This is the implementation of the submission "Large Language Models Empowered Data Augmentation for Sequential Recommendation".
+This is the implementation of the submission.
 
 ## Configure the environment
 
